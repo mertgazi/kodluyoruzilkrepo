@@ -48,4 +48,3 @@ console.log("hello world")
 ### LICENSE
 [MIT](https://choosealicense.com/)
 
-deneme
